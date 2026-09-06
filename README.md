@@ -34,3 +34,25 @@ I'm passionate about web development and continuously learning modern technologi
 * 📚 Learn backend development
 * 💼 Create a strong portfolio
 * 🚀 Start freelancing and contribute to open-source projects
+
+---
+
+### 📈 GitHub Stats
+
+[![Sayma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saymaakterweb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saymaakterweb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saymaakterweb&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 📬 Connect With Me
+
+* **GitHub:** [https://github.com/saymaakterweb](https://github.com/saymaakterweb)
+* **LinkedIn:** 
+
+---
+
+⭐️ *Thank you for visiting my profile! I'm always learning, building, and growing as a developer.* ⭐️
+
