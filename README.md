@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Sayma Akter
 
-<!--
-**saymaakterweb/saymaakterweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Front-End Developer | Full Stack AI Development Learner | Future Freelance Web Developer
 
-Here are some ideas to get you started:
+I'm passionate about web development and continuously learning modern technologies to build responsive, user-friendly, and impactful web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 About Me
+
+* 🌱 Currently learning **Frontend Development & Full Stack AI Development**
+* 💻 Building projects with **HTML, CSS, JavaScript, Bootstrap**
+* 🎯 Career Goal: Become a professional freelance web developer and build modern, user-friendly web applications for clients worldwide.
+* 🧠 Always improving my coding and problem-solving skills
+* 🤝 Open to collaboration on beginner-friendly web development projects
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Current Goals
+
+* 🌐 Build real-world responsive websites
+* ⚡ Currently improving my JavaScript skills
+* 📚 Learn backend development
+* 💼 Create a strong portfolio
+* 🚀 Start freelancing and contribute to open-source projects
